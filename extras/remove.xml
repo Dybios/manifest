@@ -85,4 +85,7 @@
   <remove-project name="platform/system/update_engine" />
   <remove-project name="platform/system/vold" />
   <remove-project name="platform/packages/services/Telephony" />
+
+  <!-- Rebase by jaduja sar -->  
+  <remove-project name="platform/system/netd" />
 </manifest>
